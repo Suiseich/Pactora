@@ -15,6 +15,7 @@ Pactora lets the Singapore client lock USDC into a Soroban escrow contract befor
 - Week 1: Build and test the Soroban escrow contract.
 - Week 2: Deploy to Stellar testnet and record contract calls.
 - Week 3: Add optional Freighter wallet UX and polish the demo flow.
+- Week 4: Add Frontend to maximize user experience.
 
 ## Stellar Features Used
 
